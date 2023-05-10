@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Professional Brief</title>
+    <style>
+      /* Basic styling for the page */
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      h1 {
+        text-align: center;
+      }
+      p {
+        text-align: justify;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Professional Brief</h1>
+      <p>My extensive background in healthcare and related technical services provides the foundation to bridge business goals with practical application of system solutions. Results-oriented top & bottom-line focused manager, who thrives on challenges, takes decisive action and makes the necessary changes to build, achieve and sustain revenue growth. Problem solving with data and overcoming challenges are accomplished through deep dedication to company targets and intelligent articulation to each team and its members. Financial acumen is solidly demonstrated through the outcomes of the companies I have had helped to lead. Leadership and cross functional management expertise has been gained from positions of increasing responsibility at start-up, entrepreneurial, mid- market and Fortune 500 companies. My passion lies with growing companies and the expectation that with this growth all employees can grow and succeed as well.</p>
+    </div>
+  </body>
+</html>
